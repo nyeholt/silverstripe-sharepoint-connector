@@ -1,9 +1,0 @@
-
-2009-11-26 <marcus@silverstripe.com.au>
-
-* Needed to add 
-
-if (count($value) == 1) { $xml .= $value[0]; }
-
-to wsdl::serializeType() to get everything through
- 
