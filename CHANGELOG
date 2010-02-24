@@ -1,0 +1,8 @@
+Version 0.1.0 RC1
+2010-01-10
+
+Initial release candidate of SharePoint Connector
+* Allows for read-only access of Sharepoint repository as a single user
+* Provides simple example templates for browsing folders and files
+* Provides import functionality to import Shareoint content into natively managed
+SilverStripe files and folders. 
